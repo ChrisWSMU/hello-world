@@ -6,4 +6,4 @@ I'm inspired to look up collaborating on amazon.com and see if any research has 
 
 Perhaps my wife and I should become proficient on GITHUB.  Maybe it would make us better at parenting twins.
 
-
+I wonder if I should just added text on line 9 and leave everything above alone.
